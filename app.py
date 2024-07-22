@@ -134,3 +134,9 @@ st.header("Conclusión")
 st.write("""
 Implementar una campaña de respeto en el trabajo es un paso esencial para construir un ambiente laboral positivo y productivo. Con el compromiso de todos los niveles de la organización y una estrategia bien definida, es posible fomentar una cultura de respeto que beneficie tanto a los empleados como a la organización en su conjunto.
 """)
+
+
+# Créditos del creador
+st.sidebar.markdown("---")
+st.sidebar.text("Creado por:")
+st.sidebar.markdown("<span style='color: yellow;'>jahoperi</span>", unsafe_allow_html=True)    
